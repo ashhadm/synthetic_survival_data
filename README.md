@@ -4,6 +4,6 @@ Abstract: Synthetically generated data can improve privacy, fairness, and data a
 
 To run the experiments in the paper, simply use the Jupyter notebooks for the respective experiments and add the path to the datasets (only for AIDS and FLCHAIN, other datasets will be imported automatically).
 
-To adapt existing tabular models for survival data generation using the proposed methodology in our paper, changes were made to the Synthcity Library [1]. These changes can be found at : https://github.com/anonymous-785/synthcity . All rights to the Synthcity library are reserved by the original authors.
+To adapt existing tabular models for survival data generation using the proposed methodology in our paper, changes were made to the Synthcity Library [1]. These changes can be found at : https://github.com/Ashhad785/synthcity . All rights to the Synthcity library are reserved by the original authors.
 
 [1] Qian, Zhaozhi, Rob Davis, and Mihaela van der Schaar. "Synthcity: a benchmark framework for diverse use cases of tabular synthetic data." Advances in Neural Information Processing Systems 36 (2024).
